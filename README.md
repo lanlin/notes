@@ -1,5 +1,5 @@
 ### 曾经在幽幽暗暗反反复复中追问，才知道平平淡淡老实记笔记才是真。。。
 
-![MyNotes](notes.jpg?raw=true "My Notes")
+[各类疑难杂症解决方案参考](https://github.com/lanlin/notes/issues)
 
-[解决办法参考文档](https://github.com/lanlin/notes/issues)
+![image](https://user-images.githubusercontent.com/3468024/145744499-edf23db4-dab7-4d60-a96f-86236071032b.png)
